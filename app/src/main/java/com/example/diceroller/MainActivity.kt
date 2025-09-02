@@ -41,5 +41,5 @@ class MainActivity : AppCompatActivity() {
         //val diceImage: ImageView=findViewById(R.id.dice_image)
         diceImage.setImageResource(drawableResource)
     }
-
+//testing comment
 }
