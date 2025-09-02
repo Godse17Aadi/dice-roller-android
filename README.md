@@ -23,3 +23,5 @@ Builtin in android stuido using kotlin as the starting point in learning somethi
 1. Clone this repository:
    ```bash
    git clone git@github.com:Godse17Aadi/dice-roller-android.git
+
+<img width="1105" height="1040" alt="image" src="https://github.com/user-attachments/assets/3b0b57c3-48e6-4645-a087-776cf681abd0" />
